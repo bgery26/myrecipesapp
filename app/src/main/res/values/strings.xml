@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="Email">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="title_activity_recipe_list">RecipeListActivity</string>
+    <string name="title_activity_recipe_list_activity.java">RecipeListActivity.java</string>
+    <string name="guest_login">Bejelentkezés vendégként</string>
+    <string name="googlesignin">GoogleSignIn</string>
+
+
+    <!-- Recyclerview resources -->
+    <string name="title_placeholder">Név</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">infó</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="settings">Beállítások</string>
+    <string name="view">View</string>
+    <string name="delete">Törlés</string>
+
+    <string-array name="recipe_item_names">
+        <item>Pesztó</item>
+        <item>Bolognai spagetti</item>
+        <item>Chow mein</item>
+        <item>Olaszos melegszendvics</item>
+        <item>Chilis bab</item>
+    </string-array>
+
+    <string-array name="recipe_item_desc">
+        <item>Hozzávalók:
+            2 nagy csokor bazsalikom,
+            50ml olívaolaj,
+            2 ek reszelt pecorino sajt,
+            3 ek reszelt parmezán sajt,
+            1 csipet tengeri só,
+            1 ek fenyőmag,
+            2 gerezd fokhagyma.
+        </item>
+        <item>Hozzávalók: 3 ek olaj, 1 fej vöröshagyma, 1 szál sárgarépa, 2 szál angolzeller, 500g darált marhahús, 150 ml bor,
+        250ml passata, só, bors, 3 dl víz, 100 ml tej, 400 g spagetti.</item>
+        <item>Hozzávalók: 70 g káposzta, 30 g hagyma, 20 g répa, 6 g gyömbér, 9 g fokhagyma, 25 g zöldhagyma, 15 ml Shaoxing bor, 250 g csirkehús, 450 g tészta
+        Szósz: 9,5 g keményítő, 7.5 g cukor, 1 g fehérbors, só, 60 ml alaplé, 30 ml világos szójaszósz, 5 ml sötét szója szósz,
+        30 ml osztriga szósz, 5 ml szezámmag olaj.</item>
+        <item>Hozzávalók: 250 g krémsajt, 4 ek piros pesztó, 2 db ciabatta, 200g mozzarella, 150 g koktélparadicsom, 40 g rukkola.</item>
+        <item>Hozzávalók: 2 fej vöröshagyma, 50 dkg darált hús, 4 doboz vörösbab, 1 tk római kömény, 1 tk cukor, 1 tk fűszerpaprika, 1 liter passzírozott paradicsom, 1 doboz kukorica
+        chili, só, bors.</item>
+    </string-array>
+
+    <array name="recipe_item_images">
+        <item>@drawable/pesto</item>
+        <item>@drawable/bolognai</item>
+        <item>@drawable/chowmein</item>
+        <item>@drawable/melegszendvics</item>
+        <item>@drawable/chilisbab</item>
+    </array>
+
+    <array name="recipe_item_time">
+        <item>Elkészítési idő: 10 perc</item>
+        <item>Elkészítési idő: 120 perc</item>
+        <item>Elkészítési idő: 40 perc</item>
+        <item>Elkészítési idő: 30 perc</item>
+        <item>Elkészítési idő: 140 perc</item>
+    </array>
+
+
+
+
+</resources>

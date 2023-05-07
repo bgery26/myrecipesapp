@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533698465464",
+    "project_id": "receptjeim",
+    "storage_bucket": "receptjeim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533698465464:android:aa22468dce07459d1dae4d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533698465464-lmi0nhnkc8mqo72c2sjtuve2qulnjrvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "740861b86fc7e34a2ef694adcafab30e4830e063"
+          }
+        },
+        {
+          "client_id": "533698465464-gs6t9uhph4qnbugilr7vc0fo5876qg5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNnfXUfrUOp2RYLEcCsP6XuZy2Uhu5aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533698465464-gs6t9uhph4qnbugilr7vc0fo5876qg5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
